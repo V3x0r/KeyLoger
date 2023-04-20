@@ -3,5 +3,7 @@ A GO script that when Executed captures everything that is written on a keyboard
 Usage 
 
 git clone https://github.com/Cordyceps1/KeyLoger.git
+ 
  go build KeyLoger.go 
+ 
  ./KeyLoger.exe 
